@@ -11,6 +11,7 @@ Currently working as front end developer at [Work & Co](https://work.co/), in pr
 - [Claro](https://www.fastcompany.com/90547898/claro-innovation-by-design-2020)
 - [Icatu](https://planos.icatuseguros.com.br/)
 - [NeighborShare](https://nbshare.org/)
+- [Outdoorsy](https://www.outdoorsy.com/)
 
 Previously worked for Globo Esporte:
 - [História do Futebol Feminino](https://interativos.globoesporte.globo.com/futebol/selecao-brasileira/especial/historia-do-futebol-feminino)
