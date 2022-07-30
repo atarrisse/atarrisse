@@ -1,13 +1,14 @@
 ### Olá / Hello / Cou cou / Hallo
 
-Nice to meet you, I'm [Ana](https://atarrisse.github.io/).
+Nice to e-meet you, I'm [Ana](https://atarrisse.github.io/).
 
-Developer, Designer, Electronic Engineer.
+Developer, Designer, Electronic Engineer. Brasilian based in Germany.
 
-Woman, POC, LGBT, scuba diver.
+Woman, POC, LGBTQIA+, scuba diver.
 
-Currently working as front end developer at [Work & Co](https://work.co/), in projects such as:
+Currently working as front end developer at [Demodern](https://demodern.de/)
 
+Previously worked at [Work&Co] on projects such as
 - [Claro](https://www.fastcompany.com/90547898/claro-innovation-by-design-2020)
 - [Icatu](https://planos.icatuseguros.com.br/)
 - [NeighborShare](https://nbshare.org/)
