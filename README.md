@@ -8,7 +8,7 @@ Woman, POC, LGBTQIA+, scuba diver.
 
 Currently working as front end developer at [Demodern](https://demodern.de/)
 
-Previously worked at [Work&Co] on projects such as
+Previously worked at [Work&Co](https://work.co/) on projects such as
 - [Claro](https://www.fastcompany.com/90547898/claro-innovation-by-design-2020)
 - [Icatu](https://planos.icatuseguros.com.br/)
 - [NeighborShare](https://nbshare.org/)
