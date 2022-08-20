@@ -6,7 +6,7 @@ Developer, Designer, Electronic Engineer. Brasilian based in Germany.
 
 Woman, POC, LGBTQIA+, scuba diver.
 
-Currently working as front end developer at [Demodern](https://demodern.de/)
+Currently working as fullstack developer at [Demodern](https://demodern.de/)
 
 Previously worked at [Work&Co](https://work.co/) on projects such as
 - [Claro](https://www.fastcompany.com/90547898/claro-innovation-by-design-2020)
